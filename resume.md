@@ -1,6 +1,6 @@
 # Thomas **Demarcy**, PhD <br><img src="photo.png" width="256">
 
-## 🫀 Experience
+## Experience
 
 **Lead Data Scientist**\
 **Volta Medical** - Marseille, France\
@@ -54,7 +54,7 @@ Intracellular Microrheology through Nanowire Videotracking [\[11\]](#journal-pap
 
 ---
 
-## 🎓 Education
+## Education
 
 🎓 **PhD in Automatic Control, Signal & Image Processing**\
 **Université Côte d'Azur** - Sophia Antipolis, France\
@@ -86,7 +86,7 @@ Score > 80%
 
 ---
 
-## 🧠 Extracurricular
+## Extracurricular
 
 **Neurosurgery & Ultra-sound Imaging Departments** - Nice University Hospital, France\
 Sep. 2016 - Sep. 2017\
@@ -99,7 +99,7 @@ Laryngeal Nerve Modeling Through Microscopy Imaging Analysis (with M.-D. Dubois,
 
 ---
 
-## 🥋 Skills
+## Skills
 
 **Programming**: Python, C++, SQL, bash, LaTeX\
 **Libraries**: NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, SciPy, ITK, VTK, OpenCV\
@@ -108,7 +108,7 @@ Laryngeal Nerve Modeling Through Microscopy Imaging Analysis (with M.-D. Dubois,
 
 ---
 
-## ✒️ Publications
+## Publications
 
 ### Journal Papers
 
