@@ -15,6 +15,7 @@
     <main>
         <input type="checkbox" role="switch" onchange="switchTheme()" style="float: right;">
         <h1 id="thomas-demarcy-phd">Thomas <strong>Demarcy</strong>, PhD <br><img src="photo.png" width="256"></h1>
+        <p><a id="email"></a></p>
         <h2 id="experience">Experience</h2>
         <p><strong>Lead Data Scientist</strong><br />
         <strong>Volta Medical</strong> - Marseille, France<br />
@@ -28,12 +29,12 @@
         <strong>KardioMe</strong> - Bratislava, Slovakia<br />
         Oct. 2020 - Apr. 2021<br />
         Fine-Tuning Deep Learning Models for Cell Detection<br />
-        Funder: <a href="mailto:jan@kardio.me">Jan Margeta</a></p>
+        Funder: Jan Margeta</p>
         <p><strong>Data Scientist</strong><br />
         <strong>Oticon Medical</strong> - Vallauris, France<br />
         Feb. 2020 - Aug. 2020<br />
         Towards Automatic Cochlear Implant Fitting <a href="#journal-papers">[2-9,</a> <a href="#conference-proceedings">12-14]</a><br />
-        Director: <a href="mailto:dan.gnansia@inbrain-neuroelectronics.com">Dan Gnansia</a><br />
+        Director: Dan Gnansia<br />
         PhD Student: Zihao Wang <a href="#grants">[27]</a></p>
         <p><strong>Project Technical Lead</strong><br />
         <strong>Oticon Medical</strong> - Vallauris, France<br />
@@ -48,7 +49,7 @@
         <strong>Inria &amp; Oticon Medical</strong> - Sophia Antipolis, France<br />
         Nov. 2013 - Jul. 2017<br />
         Segmentation and Anatomical Variability of the Cochlea from Medical Images <a href="www.theses.fr/204374316">🔗</a><br />
-        Advisors: <a href="mailto:nicholas.ayache@inria.fr">Nicholas Ayache</a> &amp; <a href="mailto:herve.delingette@inria.fr">Hervé Delingette</a></p>
+        Advisors: Nicholas Ayache &amp; Hervé Delingette</p>
         <p><strong>Intern</strong><br />
         <strong>Philips Research</strong> - Hamburg, Germany<br />
         Apr. 2013 - Sep. 2013<br />
@@ -185,5 +186,11 @@
         Period: 2018 - 2021</li>
         </ol>
     </main>
+    <script>
+        const encoded = "ZGVtYXJjeUB0dXRhLmlv";
+        const decoded = window.atob(encoded);
+        document.getElementById('email').setAttribute('href', 'mailto:' + decoded);
+        document.getElementById('email').innerText = decoded;
+    </script>
 </body>
 </html>

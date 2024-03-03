@@ -1,5 +1,7 @@
 # Thomas **Demarcy**, PhD <br><img src="photo.png" width="256">
 
+<a id="email"></a>
+
 ## Experience
 
 **Lead Data Scientist**\
@@ -16,13 +18,13 @@ Software Release Enriched with Third-Party API Integration
 **KardioMe** - Bratislava, Slovakia\
 Oct. 2020 - Apr. 2021\
 Fine-Tuning Deep Learning Models for Cell Detection\
-Funder: [Jan Margeta](mailto:jan@kardio.me)
+Funder: Jan Margeta
 
 **Data Scientist**\
 **Oticon Medical** - Vallauris, France\
 Feb. 2020 - Aug. 2020\
 Towards Automatic Cochlear Implant Fitting [\[2-9,](#journal-papers) [12-14\]](#conference-proceedings)\
-Director: [Dan Gnansia](mailto:dan.gnansia@inbrain-neuroelectronics.com)\
+Director: Dan Gnansia\
 PhD Student: Zihao Wang [\[27\]](#grants)
 
 **Project Technical Lead**\
@@ -40,7 +42,7 @@ Science Communication [\[16-20\]](#oral-presentation)
 **Inria & Oticon Medical** - Sophia Antipolis, France\
 Nov. 2013 - Jul. 2017\
 Segmentation and Anatomical Variability of the Cochlea from Medical Images [🔗](www.theses.fr/204374316)\
-Advisors: [Nicholas Ayache](mailto:nicholas.ayache@inria.fr) & [Hervé Delingette](mailto:herve.delingette@inria.fr)
+Advisors: Nicholas Ayache & Hervé Delingette
 
 **Intern**\
 **Philips Research** - Hamburg, Germany\

@@ -16,5 +16,11 @@
         <input type="checkbox" role="switch" onchange="switchTheme()" style="float: right;">
         $body$
     </main>
+    <script>
+        const encoded = "ZGVtYXJjeUB0dXRhLmlv";
+        const decoded = window.atob(encoded);
+        document.getElementById('email').setAttribute('href', 'mailto:' + decoded);
+        document.getElementById('email').innerText = decoded;
+    </script>
 </body>
 </html>
