@@ -1,6 +1,6 @@
-# Thomas **Demarcy**, PhD <br><img src="photo.png" width="256">
+# Thomas Demarcy, PhD
 
-<a id="email"></a>
+![Thomas Demarcy's Profile Picture](profile.png)
 
 ## Experience
 
