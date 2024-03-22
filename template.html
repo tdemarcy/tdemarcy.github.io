@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,11 +12,24 @@
         }
     </script>
 </head>
+
 <body>
-    <main>
-        <input type="checkbox" role="switch" onchange="switchTheme()" style="float: right;">
+    <main id="top">
+        <nav>
+            <ul>
+            </ul>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><input type="checkbox" role="switch" onchange="switchTheme()"></li>
+            </ul>
+        </nav>
         $body$
     </main>
+    <footer>
+        <a href="#top" style="position: fixed; bottom: 10px; right: 10px;">↑</a>
+    </footer>
     <script>
         const encoded = "ZGVtYXJjeUB0dXRhLmlv";
         const decoded = window.atob(encoded);
@@ -23,4 +37,5 @@
         document.getElementById('email').innerText = decoded;
     </script>
 </body>
+
 </html>
